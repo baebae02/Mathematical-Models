@@ -1,2 +1,0 @@
-function [x,y,z] = Sys2ODEsRK2(ODE1, ODE2,a,b,h,yINI, zINI)
-%Sys2ODEsRK2 solves a system of two first-order initial value ODEs using
